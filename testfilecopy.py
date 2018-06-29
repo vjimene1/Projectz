@@ -27,3 +27,8 @@ target.write(line3)
 
 print("and finally close it")
 target.close
+
+
+# Testing testing
+
+print("testing git commit")
